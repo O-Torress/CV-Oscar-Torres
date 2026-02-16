@@ -1,2 +1,2 @@
 # CV Oscar Torres
-Proyecti N1 HTML
+Proyecto N1 HTML
